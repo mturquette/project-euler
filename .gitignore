@@ -1,0 +1,6 @@
+a.out
+*.patch
+*.diff
+*.rej
+*.orig
+*.o
